@@ -18,6 +18,12 @@
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1sP6cI2XrDszRT1JgCSIZmwUvys" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,5 +53,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="494" width="784" height="490" key="find.popup" timestamp="1620762107867">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="873" y="494" width="784" height="490" key="find.popup/0.23.2560.1417/2560.343.1792.1097/-1200.23.1200.1897@0.23.2560.1417" timestamp="1620762107867" />
   </component>
 </project>
