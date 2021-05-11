@@ -12,7 +12,7 @@ As far as I know, there isn't an easy way to see total investment and earnings o
 CAK="your-api-key-here"
 CAS="your-api-secret-here"   
 ```
-_**Note:**_ Make sure not to share this information with anyone! 
+_**Note:** Make sure not to share this information with anyone!_ 
 
 ### Example
 Check the invested amount and earnings of your Bitcoin account:
