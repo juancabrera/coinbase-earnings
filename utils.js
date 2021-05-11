@@ -46,7 +46,7 @@ export async function getWalletAccountID(currency) {
 }
 
 export async function getAccountTransactions(accountID, nextURL) {
-  let path = `/v2/accounts/${accountID}/transactions?&limit=10`
+  let path = `/v2/accounts/${accountID}/transactions?&limit=100`
   if (nextURL != null) {
     path = nextURL
   }
