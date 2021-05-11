@@ -5,8 +5,9 @@ As far as I know, there isn't an easy way to see total investment and earnings o
 ### Setup
 1. Create a new Coinbase API [here](https://www.coinbase.com/settings/api). Make sure to take note of the secret as you won't be able to see it later
 2. Clone this repo
-3. Create a `.env` file at the root of the folder `coinbase-earnings`
-4. Add your API key and API secret to the `.env` file following this format:
+3. Run `yarn install`
+4. Create a `.env` file at the root of the folder `coinbase-earnings`
+5. Add your API key and API secret to the `.env` file following this format:
 ```
 CAK="your-api-key-here"
 CAS="your-api-secret-here"   
