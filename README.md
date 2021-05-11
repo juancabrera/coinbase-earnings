@@ -25,3 +25,6 @@ Results:
   Total: $3149.27
   Gains: 201.12%
 ```
+
+### Notes
+* You will need Node 14+
