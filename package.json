@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "coinbase-earnings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juan Cabrera <hello@juan.me> (https://juan.me/)",  
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  }
+}
